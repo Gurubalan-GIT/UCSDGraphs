@@ -5,6 +5,7 @@
  * @author UCSD MOOC development team
  *
  */
+/* Project completed by Gurubalan Harikrishnan with help from UCSD University. */
 package application;
 
 import javafx.application.Application;
